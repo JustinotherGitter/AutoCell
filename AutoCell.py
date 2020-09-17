@@ -22,6 +22,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 from matplotlib.widgets import Slider
 
+matplotlib.use('GTK')
+
 # TODO: Cell1D show revamp
 # TODO: Checkbox for black/white in show 2D
 # TODO: Cell2D.animate() not called properly when run in Terminal
