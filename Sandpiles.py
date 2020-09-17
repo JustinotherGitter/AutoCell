@@ -21,6 +21,8 @@ import numpy as np
 
 from Basics import *
 
+matplotlib.use('GTK')
+
 
 # TODO: Find out how large history should be (t-axis)
 
